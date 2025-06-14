@@ -8,13 +8,13 @@ Below is a screenshot of the application's user interface:
 
 ![App UI](Translator-Agent/Translator-Agent/Resources/Images/screenshots/Screenshot%202025-06-14%20at%208.39.09%E2%80%AFAM.png)
 
-## 🎬 App Demo Video
+## 🎬 App Demo
 
-Watch how the app works in action:
+See the app in action:
 
-[![Watch the demo on YouTube](https://img.youtube.com/vi/XppslPiiv28/0.jpg)](https://www.youtube.com/watch?v=XppslPiiv28)
+![App Demo](Translator-Agent/Translator-Agent/Resources/Images/screenshots/KakaoTalk_TranslateAgent.gif)
 
-[Click here to watch the full demo on YouTube](https://www.youtube.com/watch?v=XppslPiiv28)
+Want to watch the full demo video with sound? [Click here to watch on YouTube](https://www.youtube.com/watch?v=XppslPiiv28)
 
 ## 🌟 Features
 
