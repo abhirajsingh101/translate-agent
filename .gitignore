@@ -30,4 +30,13 @@ DerivedData
 # macOS
 .DS_Store
 .AppleDouble
-.LSOverride 
+.LSOverride
+
+# Image files
+# Ignore temporary and generated images
+*.tmp
+*.temp
+*.cache
+*.generated
+# But keep committed images in Resources
+!Translator-Agent/Translator-Agent/Resources/Images/ 
