@@ -12,7 +12,9 @@ Below is a screenshot of the application's user interface:
 
 Watch how the app works in action:
 
-<video src="Translator-Agent/Translator-Agent/Resources/Images/screenshots/KakaoTalk_TranslateAgent.mp4" controls width="700"></video>
+[![Watch the demo on YouTube](https://img.youtube.com/vi/XppslPiiv28/0.jpg)](https://www.youtube.com/watch?v=XppslPiiv28)
+
+[Click here to watch the full demo on YouTube](https://www.youtube.com/watch?v=XppslPiiv28)
 
 ## 🌟 Features
 
