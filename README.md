@@ -115,3 +115,19 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 🔑 API Key Setup
+
+To use this application, you need to set up your OpenAI API key. There are two ways to do this:
+
+### Option 1: Environment Variable (Recommended)
+Set the `OPENAI_API_KEY` environment variable:
+```bash
+export OPENAI_API_KEY='your-api-key-here'
+```
+
+### Option 2: UserDefaults (Development Only)
+You can set the API key programmatically in development:
+```swift
+AppConfig.setAPIKey("your-api-key-here")
+```
