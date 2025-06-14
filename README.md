@@ -2,6 +2,12 @@
 
 A powerful macOS application that automatically translates Korean messages from KakaoTalk into English in real-time. This project was born out of the frustration of manually copying and pasting messages for translation, providing a seamless solution for bilingual communication.
 
+## 📖 Read the Full Story
+
+Want a deep dive into the motivation, technical details, and future plans for this project? Check out the detailed blog post:
+
+[Read the KakaoTalk Translation Agent Blog Post](https://www.singhabhi.com/projects/kakaotalk-translation-agent)
+
 ## 🖼 App UI Preview
 
 Below is a screenshot of the application's user interface:
